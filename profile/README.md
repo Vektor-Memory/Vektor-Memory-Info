@@ -69,7 +69,7 @@ Distributed via npm. Commercial licence. $9/month.
 
 > *Hands for your agent. Bundled inside Slipstream.*
 
-Cloak is the action and operations layer. Where Slipstream manages what an agent knows, Cloak manages what it can do — SSH orchestration, stealth browser automation, and an encrypted credential vault, all exposed as MCP tools.
+Cloak is the DXT & CLI action and operations layer. Where Slipstream manages what an agent knows, Cloak manages what it can do — SSH orchestration, stealth browser automation, and an encrypted credential vault, all exposed as MCP tools.
 
 **SSH orchestration** gives agents the ability to execute commands on remote servers with a mandatory approval gate before any write or destructive operation, multi-command transaction planning, and one-step rollback. Designed for agents that manage infrastructure without human hands on the keyboard.
 
