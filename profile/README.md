@@ -99,7 +99,7 @@ Zero dependencies. Node.js 18+. Runs on Windows, macOS, and Linux.
 
 ## Mcp-Sync
 
-Open source. Free. Apache 2.0.*
+Open source. Free. Mit*
 
 mcp-sync is a standalone CLI tool that keeps your MCP (Model Context Protocol) server configurations in sync across all your AI editors — Claude Desktop, Cursor, VS Code, Windsurf, and Claude Code. No account. No cloud. Just a single .mcp.json file and one command.
 
