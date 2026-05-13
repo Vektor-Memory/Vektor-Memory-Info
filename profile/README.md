@@ -109,10 +109,6 @@ https://github.com/Vektor-Memory/Vek-Sync
 
 <div align="center">
 
-<div style="max-width:680px;font-family:var(--font-sans)">
-<h2 class="sr-only">Via Open source. Free. Apache 2.0. — GitHub repository overview</h2>
-
-
 <div style="text-align:center;padding:2rem 0 1.5rem">
   <p style="font-size:13px;color:var(--color-text-secondary);margin:0 0 6px">Open source. Free. Apache 2.0.</p>
   <h1 style="font-size:22px;font-weight:500;margin:0 0 4px">Via</h1>
