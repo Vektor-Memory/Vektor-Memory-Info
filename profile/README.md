@@ -108,7 +108,6 @@ Define your servers once in .mcp.json. Push to every editor with one command. Pu
 https://github.com/Vektor-Memory/Vek-Sync
 
 ---
-<br />
 
 <div align="center">
 
